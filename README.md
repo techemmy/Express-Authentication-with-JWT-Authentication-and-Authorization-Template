@@ -1,4 +1,4 @@
-# Express-Authentication-with-JWT-Template
+# Express-Authentication-with-JWT-or-BearerAuthentication-Template
 
 To use Bearer Authentication by passing the token in request.headers.authentication:
 - Comment ExtractJWT.fromUrlQueryParameter in authentication/auth.js
