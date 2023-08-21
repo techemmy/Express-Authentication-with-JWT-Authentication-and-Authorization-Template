@@ -1,4 +1,4 @@
-# Express-Authentication-with-JWT-Authentication-Template
+# Express-Authentication-with-JWT-Template
 
 It uses Passport with custom LocalStrategy, JWT for authentication, and Passport-jwt for authorization and protection of routes.
 
